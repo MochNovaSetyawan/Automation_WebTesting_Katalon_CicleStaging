@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://staging.cicle.app/companies/61eba2c85080f47b25ddc8f8'</initValue>
+      <name>Base_Url</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

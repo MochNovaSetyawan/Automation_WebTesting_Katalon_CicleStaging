@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1.Go to URL Staging Cicle
+2.Choose team
+3.Click group chat box menu</description>
+   <name>GC-01_User can go to group chat menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d041f57d-238f-44b5-b076-3bc08d27523f</testCaseGuid>
+</TestCaseEntity>
