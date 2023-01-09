@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GCP-06_User send mention chat</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa2b931a-65f2-4e9c-99f6-75e57f90b168</testCaseGuid>
+</TestCaseEntity>

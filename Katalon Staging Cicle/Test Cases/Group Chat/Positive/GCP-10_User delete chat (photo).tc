@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GCP-10_User delete chat (photo)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>415f94c5-6183-4341-afdc-15770f305d81</testCaseGuid>
+</TestCaseEntity>
